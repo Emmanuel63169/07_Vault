@@ -26,6 +26,7 @@ let str18 = "convination:";
 let fullstring = str1 + space + str2 + space + str3 + space + str4 + space + str6 + space + str1 + space + str2 + space + str7 + space + str8 + space + str9 + space + str10 + space + str11 + space + str12 + space + str13 + space + str14 + space + str15 + space + str16 + space + str17 + space + str18
 console.log(fullstring);
 
+
 const num1 = 5 + 5;
 const num2 = 100 - 60;
 const num3 = 13 * 3;
