@@ -1,0 +1,12 @@
+/* I dont really need a css file for this assignment */
+
+h1{
+    border: 5px double black;
+    padding: 5px 5px 5px 5px;
+    margin-left: 40%;
+    display: inline-block;
+}
+
+p{
+    margin-left: 45%;
+}
